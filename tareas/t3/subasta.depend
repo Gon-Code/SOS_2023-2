@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1694203199 source:/home/lmateu/Cursos/CC41B/232/T3-sol/subasta.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	"subasta.h"
+
+1694203329 /home/lmateu/Cursos/CC41B/232/T3-sol/subasta.h
+
+1694203720 source:/home/lmateu/Cursos/CC41B/232/T3-sol/test-subasta.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<pthread.h>
+	<stdarg.h>
+	"subasta.h"
+

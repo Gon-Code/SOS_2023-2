@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1692204334 source:/home/lmateu/Cursos/CC41B/232/T1-sol/integral.c
+	<stdio.h>
+	<pthread.h>
+	"integral.h"
+
+1692204334 /home/lmateu/Cursos/CC41B/232/T1-sol/integral.h
+
+1692204532 source:/home/lmateu/Cursos/CC41B/232/T1-sol/test-integral.c
+	<stdio.h>
+	<pthread.h>
+	<math.h>
+	<sys/time.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	"integral.h"
+

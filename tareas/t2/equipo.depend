@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1693250862 source:/home/lmateu/Cursos/CC41B/232/T2-sol/equipo.c
+	<pthread.h>
+	<stdlib.h>
+	"pss.h"
+	"equipo.h"
+
+1693250323 /home/lmateu/Cursos/CC41B/232/T2-sol/pss.h
+
+1693250882 /home/lmateu/Cursos/CC41B/232/T2-sol/equipo.h
+
+1693250323 source:/home/lmateu/Cursos/CC41B/232/T2-sol/pss.c
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	"pss.h"
+
+1693258914 source:/home/lmateu/Cursos/CC41B/232/T2-sol/test-equipo.c
+	<pthread.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<stdarg.h>
+	"pss.h"
+	"equipo.h"
+
