@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1695936791 source:/home/lmateu/Cursos/CC41B/232/T4-sol/h2o.c
+	<nthread.h>
+	"pss.h"
+	"h2o.h"
+
+1695936725 /home/lmateu/Cursos/CC41B/232/T4-sol/h2o.h
+
+1688070516 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/mutex-cond.c
+	"nthread-impl.h"
+
+1688259523 /home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/nthread-impl.h
+	<pthread.h>
+	<signal.h>
+	<assert.h>
+	"nthread.h"
+
+1688265711 /home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/nthread.h
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<errno.h>
+	<stdio.h>
+	<time.h>
+	<sys/time.h>
+	<sys/resource.h>
+	<stdarg.h>
+	"pss.h"
+	<pthread.h>
+	<semaphore.h>
+
+1688070516 /home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/pss.h
+
+1688070516 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/nmsgs.c
+	"nthread-impl.h"
+
+1688070516 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/nsystem.c
+	"nthread-impl.h"
+	"nSystem.h"
+
+1688070516 /home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/nSystem.h
+	"nthread.h"
+
+1688316060 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/nthread.c
+	"nthread-impl.h"
+	<errno.h>
+	<stdint.h>
+	<signal.h>
+	<stdarg.h>
+	<string.h>
+	<ucontext.h>
+
+1688261975 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/ntime.c
+	"nthread-impl.h"
+	<errno.h>
+	<stdint.h>
+	<signal.h>
+	<stdarg.h>
+	<string.h>
+
+1688170066 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/nutil.c
+	"nthread-impl.h"
+	<stdio.h>
+
+1688070516 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/pss.c
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<nthread.h>
+	"pss.h"
+
+1688070516 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/sched-fcfs-1core.c
+	"nthread-impl.h"
+
+1688070516 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/sched-fcfs.c
+	"nthread-impl.h"
+
+1688070516 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/sched-pri-1core.c
+	"nthread-impl.h"
+
+1695936421 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/sched-rr.c
+	"nthread-impl.h"
+	<sys/resource.h>
+
+1688070516 source:/home/lmateu/Cursos/CC41B/232/T4-sol/nKernel/sem.c
+	"nthread-impl.h"
+

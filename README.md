@@ -7,8 +7,8 @@ A continuación puedes ver los enunciados de las tareas en formato pdf. Más aba
 - [Tarea 1 : Paralelización con Threads](https://github.com/Gon-Code/SOS_2023-2/blob/main/img/Tarea_1_SO.pdf)
 - [Tarea 2 : Sincronización con Threads](https://github.com/Gon-Code/SOS_2023-2/blob/main/img/Tarea_2_SO.pdf)
 - [Tarea 3 : Múltiples condiciones](https://github.com/Gon-Code/SOS_2023-2/blob/main/img/Tarea_3_SO.pdf)
-- [Tarea 4 :](https://github.com/Gon-Code/SOS_2023-2/blob/main/img/Tarea_4_PSS.pdf)
-- [Tarea 5 :](https://github.com/Gon-Code/SOS_2023-2/blob/main/img/Tarea_5_PSS.pdf)
+- [Tarea 4 : nThreads](https://github.com/Gon-Code/SOS_2023-2/blob/main/img/Tarea_4_SO.pdf)
+- [Tarea 5 : nThreads con timeout](https://github.com/Gon-Code/SOS_2023-2/blob/main/img/Tarea_5_SO.pdf)
 - [Tarea 6 :](https://github.com/Gon-Code/SOS_2023-2/blob/main/img/Tarea_6_PSS.pdf)
 - [Tarea 7 :](https://github.com/Gon-Code/SOS_2023-2/blob/main/img/Tarea_7_PSS.pdf)
 
@@ -17,8 +17,8 @@ A continuación puedes ver los enunciados de las tareas en formato pdf. Más aba
 - [Tarea 1 : Paralización con Threads](https://github.com/Gon-Code/SOS_2023-2/blob/main/tareas/t1/integral.c)
 - [Tarea 2 : Sincronización con Threads](https://github.com/Gon-Code/SOS_2023-2/blob/main/tareas/t2/equipo.c)
 - [Tarea 3 : Múltiples condiciones](https://github.com/Gon-Code/SOS_2023-2/blob/main/tareas/t3/subasta.c)
-- [Tarea 4 :](https://github.com/Gon-Code/SOS_2023-2/blob/main/tareas/t4)
-- [Tarea 5 :](https://github.com/Gon-Code/SOS_2023-2/blob/main/tareas/t5) 
+- [Tarea 4 : nThreads](https://github.com/Gon-Code/SOS_2023-2/blob/main/tareas/t4/h2o.c)
+- [Tarea 5 : nThreads con timeout](https://github.com/Gon-Code/SOS_2023-2/blob/main/tareas/t5/h2o.c) 
 - [Tarea 6 :](https://github.com/Gon-Code/SOS_2023-2/blob/main/tareas/t6)
 - [Tarea 7 :](https://github.com/Gon-Code/SOS_2023-2/blob/main/tareas/t7)
 
